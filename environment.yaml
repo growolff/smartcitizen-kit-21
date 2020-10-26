@@ -1,0 +1,8 @@
+name: smartcitizen
+dependencies:
+    - python=3.6
+    - pyzmq
+    - pyyaml=3.12
+    - pyserial
+    - pip:
+        - requests
